@@ -4,14 +4,6 @@ Hi, I'm Ritik — a fullstack developer and software engineer. Source for my per
 
 Live: [ritikdev.vercel.app](https://ritikdev.vercel.app)
 
-## Intro
-
-I build fast, clean, and accessible web apps. This portfolio showcases who I am, what I've built, and my journey in web development — from personal projects to client work and open-source contributions.
-
-## My Work
-
-I work across the stack: React & Next.js on the frontend, TypeScript everywhere, and Tailwind CSS + Radix UI for the interface. I care about performance, good UX, and maintainable code. The site also features a blog, an experience page, GitHub contribution graph, and Cal.com scheduling.
-
 ## Personal Projects (My Work)
 
 - **Shadcncanvas** — drag-and-drop visual builder for shadcn/ui; export production-ready React ([live](https://shadcncanvas.vercel.app))
