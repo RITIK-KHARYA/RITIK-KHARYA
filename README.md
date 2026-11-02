@@ -36,20 +36,6 @@ Contributions, issues, and feature requests are welcome on this repo. See the [i
 - GitHub: [github.com/RITIK-KHARYA](https://github.com/RITIK-KHARYA)
 - Twitter: [@kharyaritik](https://twitter.com/kharyaritik)
 - LinkedIn: [linkedin.com/in/ritikkharya](https://linkedin.com/in/ritikkharya)
-- Live demo: [ritikdev.vercel.app](https://ritikdev.vercel.app)
+- Portfolio : [ritikdev.vercel.app](https://ritikdev.vercel.app)
 
----
-
-## Run Locally
-
-```bash
-git clone https://github.com/RITIK-KHARYA/portfolio.git && cd portfolio
-bun install
-cp .env .env.local
-bun dev
-```
-
-Open [http://localhost:3000](http://localhost:3000). See [PROJECT_STRUCTURE.md](./PROJECT_STRUCTURE.md) for the architecture.
-
-*Designed & Built by [Ritik Kharya](https://ritikdev.vercel.app)*
 
